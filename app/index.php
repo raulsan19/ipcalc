@@ -9,6 +9,6 @@
 	<body>
 		<p><b>CALCUALDORA IPv4</b></p>
 		<a href="ip.html">Aplicació de càlcul de subxarxes</a>
-                <p>Autor: Raul Santos Lopez</p>
+                <p>Autor: Raulin Santos Lopez</p>
 	</body>
 </html>
