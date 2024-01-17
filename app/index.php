@@ -12,6 +12,6 @@
 <?php
  echo date("l jS \of F Y h:i:s A") . "<br>";
 ?>
-                <p>Autor: sandros</p>
+                <p>Autor: asix2 - gp1f4a11 - ver.1.4</p>
 	</body>
 </html>
